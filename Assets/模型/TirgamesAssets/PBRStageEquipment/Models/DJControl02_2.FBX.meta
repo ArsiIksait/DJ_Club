@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: cd2be14c70f43604d8165cc470098f4e
+timeCreated: 1503593956
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: DJControl02
+    100002: //RootNode
+    100004: HandleBottom01
+    100006: HandleBottom02
+    100008: HandleBottom03
+    100010: HandleBottom04
+    100012: HandleBottom05
+    100014: HandleBottom06
+    100016: HandleRight01
+    100018: HandleTop005
+    100020: HandleTop01
+    100022: HandleTop02
+    100024: HandleTop03
+    100026: HandleTop04
+    400000: DJControl02
+    400002: //RootNode
+    400004: HandleBottom01
+    400006: HandleBottom02
+    400008: HandleBottom03
+    400010: HandleBottom04
+    400012: HandleBottom05
+    400014: HandleBottom06
+    400016: HandleRight01
+    400018: HandleTop005
+    400020: HandleTop01
+    400022: HandleTop02
+    400024: HandleTop03
+    400026: HandleTop04
+    2300000: DJControl02
+    2300002: HandleBottom01
+    2300004: HandleBottom02
+    2300006: HandleBottom03
+    2300008: HandleBottom04
+    2300010: HandleBottom05
+    2300012: HandleBottom06
+    2300014: HandleRight01
+    2300016: HandleTop005
+    2300018: HandleTop01
+    2300020: HandleTop02
+    2300022: HandleTop03
+    2300024: HandleTop04
+    3300000: DJControl02
+    3300002: HandleBottom01
+    3300004: HandleBottom02
+    3300006: HandleBottom03
+    3300008: HandleBottom04
+    3300010: HandleBottom05
+    3300012: HandleBottom06
+    3300014: HandleRight01
+    3300016: HandleTop005
+    3300018: HandleTop01
+    3300020: HandleTop02
+    3300022: HandleTop03
+    3300024: HandleTop04
+    4300000: DJControl02
+    4300002: HandleTop01
+    4300004: HandleTop02
+    4300006: HandleTop03
+    4300008: HandleTop04
+    4300010: HandleTop005
+    4300012: HandleRight01
+    4300014: HandleBottom01
+    4300016: HandleBottom02
+    4300018: HandleBottom03
+    4300020: HandleBottom04
+    4300022: HandleBottom05
+    4300024: HandleBottom06
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

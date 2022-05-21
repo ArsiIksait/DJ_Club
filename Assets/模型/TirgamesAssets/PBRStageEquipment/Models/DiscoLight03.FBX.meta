@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: 5073d224f3470ae4a809eb7769501f19
+timeCreated: 1488643817
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DiscoLight03Holder
+    100004: DiscoLight03RotParent
+    100006: DiscoLight03Sphere1
+    100008: DiscoLight03Sphere2
+    100010: Dummy001
+    100012: DiscoLight03
+    100014: DiscoLight03Ball1
+    100016: DiscoLIght03Ball2
+    100018: DiscoLight03Base
+    400000: //RootNode
+    400002: DiscoLight03Holder
+    400004: DiscoLight03RotParent
+    400006: DiscoLight03Sphere1
+    400008: DiscoLight03Sphere2
+    400010: Dummy001
+    400012: DiscoLight03
+    400014: DiscoLight03Ball1
+    400016: DiscoLIght03Ball2
+    400018: DiscoLight03Base
+    2300000: DiscoLight03Holder
+    2300002: DiscoLight03RotParent
+    2300004: DiscoLight03Sphere1
+    2300006: DiscoLight03Sphere2
+    2300008: DiscoLight03
+    2300010: DiscoLight03Ball1
+    2300012: DiscoLIght03Ball2
+    2300014: DiscoLight03Base
+    3300000: DiscoLight03Holder
+    3300002: DiscoLight03RotParent
+    3300004: DiscoLight03Sphere1
+    3300006: DiscoLight03Sphere2
+    3300008: DiscoLight03
+    3300010: DiscoLight03Ball1
+    3300012: DiscoLIght03Ball2
+    3300014: DiscoLight03Base
+    4300000: DiscoLight03Holder
+    4300002: DiscoLight03RotParent
+    4300004: DiscoLight03Sphere2
+    4300006: DiscoLight03Sphere1
+    4300008: DiscoLight03Base
+    4300010: DiscoLight03
+    4300012: DiscoLight03Ball1
+    4300014: DiscoLIght03Ball2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
